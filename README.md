@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JR-Space
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C-Sharp
 - 💞️ I’m looking to collaborate Python programming
 -my repl account
 replit.com/@JayedRehan
